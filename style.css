@@ -1,0 +1,57 @@
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color:deeppink;
+    padding-top: 12px;
+}
+
+
+
+#menu a{
+    color: #ffffff;
+    font-family: halvetica, sans-serif
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#menu a:hover{
+  color:chartreuse  
+}
+
+h2{
+    font-family: serif;
+    color: chartreuse;
+}
+
+h1{
+    font-family: sans-serif;  
+}
+
+
+table{
+    font-family: halvetic, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color:palevioletred;
+    background-color: antiquewhite
+    
+}
+
+p{
+    font-family: sans-serif;
+}
+th{
+   font-weight: 800; 
+    background-color: palevioletred;
+    color: #ffffff;
+}
+.gallery img{
+    width: 100%;
+    
+    {
+
+    
